@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0CCC7630-2CCE-445B-AFE7-7A6164EED583}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fig3p22Comparison/Comparison.cs">
+    <Files>
+      <File FileName="Fig3p22Comparison/Comparison.cs" Line="43" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fig3p22Comparison" expanded="True">
+            <Node name="Fig3p22Comparison" expanded="True">
+              <Node name="Comparison.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Fig3p22Comparison PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

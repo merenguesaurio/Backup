@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5C4CACD1-C51E-4E65-8F8D-B50290706BA6}|Default">
+  <MonoDevelop.Ide.ItemProperties.Prob3p14DisplayingNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Prob3p14DisplayingNumbers/Program.cs">
+    <Files>
+      <File FileName="Prob3p14DisplayingNumbers/Program.cs" Line="17" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Prob3p14DisplayingNumbers" expanded="True">
+            <Node name="Prob3p14DisplayingNumbers" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

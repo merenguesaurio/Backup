@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{615BDAA9-E114-4BB4-BB8B-B3D47191B030}|Default">
+  <MonoDevelop.Ide.ItemProperties.Prob3p15Arithmetic PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Prob3p15Arithmetic/Program.cs">
+    <Files>
+      <File FileName="Prob3p15Arithmetic/Program.cs" Line="25" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Prob3p15Arithmetic" expanded="True">
+            <Node name="Prob3p15Arithmetic" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

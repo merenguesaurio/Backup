@@ -1,0 +1,6 @@
+/home/fcl021/Projects/Fig3p1Welcome1/Fig3p1Welcome1/bin/Debug/Fig3p1Welcome1.exe
+/home/fcl021/Projects/Fig3p1Welcome1/Fig3p1Welcome1/bin/Debug/Fig3p1Welcome1.pdb
+/home/fcl021/Projects/Fig3p1Welcome1/Fig3p1Welcome1/obj/x86/Debug/Fig3p1Welcome1.csprojAssemblyReference.cache
+/home/fcl021/Projects/Fig3p1Welcome1/Fig3p1Welcome1/obj/x86/Debug/Fig3p1Welcome1.csproj.CoreCompileInputs.cache
+/home/fcl021/Projects/Fig3p1Welcome1/Fig3p1Welcome1/obj/x86/Debug/Fig3p1Welcome1.exe
+/home/fcl021/Projects/Fig3p1Welcome1/Fig3p1Welcome1/obj/x86/Debug/Fig3p1Welcome1.pdb

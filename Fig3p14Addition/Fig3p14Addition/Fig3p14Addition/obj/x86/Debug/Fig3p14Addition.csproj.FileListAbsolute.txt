@@ -1,0 +1,6 @@
+/home/fcl021/Git/Programs/Backup/Fig3p14Addition/Fig3p14Addition/Fig3p14Addition/bin/Debug/Fig3p14Addition.exe
+/home/fcl021/Git/Programs/Backup/Fig3p14Addition/Fig3p14Addition/Fig3p14Addition/bin/Debug/Fig3p14Addition.pdb
+/home/fcl021/Git/Programs/Backup/Fig3p14Addition/Fig3p14Addition/Fig3p14Addition/obj/x86/Debug/Fig3p14Addition.csprojAssemblyReference.cache
+/home/fcl021/Git/Programs/Backup/Fig3p14Addition/Fig3p14Addition/Fig3p14Addition/obj/x86/Debug/Fig3p14Addition.csproj.CoreCompileInputs.cache
+/home/fcl021/Git/Programs/Backup/Fig3p14Addition/Fig3p14Addition/Fig3p14Addition/obj/x86/Debug/Fig3p14Addition.exe
+/home/fcl021/Git/Programs/Backup/Fig3p14Addition/Fig3p14Addition/Fig3p14Addition/obj/x86/Debug/Fig3p14Addition.pdb

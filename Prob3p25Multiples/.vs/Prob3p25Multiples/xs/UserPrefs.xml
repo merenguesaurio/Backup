@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{883725F5-F4ED-4AB0-811C-DE37DCADD26D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Prob3p25Multiples FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Prob3p25Multiples/Program.cs">
+    <Files>
+      <File FileName="Prob3p25Multiples/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Prob3p25Multiples" expanded="True">
+            <Node name="Prob3p25Multiples" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

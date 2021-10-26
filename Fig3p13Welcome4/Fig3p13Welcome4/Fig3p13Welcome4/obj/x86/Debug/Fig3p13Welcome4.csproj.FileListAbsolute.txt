@@ -1,0 +1,6 @@
+/home/fcl021/Git/Programs/Backup/Fig3p13Welcome4/Fig3p13Welcome4/Fig3p13Welcome4/bin/Debug/Fig3p13Welcome4.exe
+/home/fcl021/Git/Programs/Backup/Fig3p13Welcome4/Fig3p13Welcome4/Fig3p13Welcome4/bin/Debug/Fig3p13Welcome4.pdb
+/home/fcl021/Git/Programs/Backup/Fig3p13Welcome4/Fig3p13Welcome4/Fig3p13Welcome4/obj/x86/Debug/Fig3p13Welcome4.csprojAssemblyReference.cache
+/home/fcl021/Git/Programs/Backup/Fig3p13Welcome4/Fig3p13Welcome4/Fig3p13Welcome4/obj/x86/Debug/Fig3p13Welcome4.csproj.CoreCompileInputs.cache
+/home/fcl021/Git/Programs/Backup/Fig3p13Welcome4/Fig3p13Welcome4/Fig3p13Welcome4/obj/x86/Debug/Fig3p13Welcome4.exe
+/home/fcl021/Git/Programs/Backup/Fig3p13Welcome4/Fig3p13Welcome4/Fig3p13Welcome4/obj/x86/Debug/Fig3p13Welcome4.pdb

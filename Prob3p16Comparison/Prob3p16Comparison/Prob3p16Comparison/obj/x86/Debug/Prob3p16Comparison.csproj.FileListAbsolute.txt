@@ -1,0 +1,6 @@
+/home/fcl021/Git/Programs/Backup/Prob3p16Comparison/Prob3p16Comparison/Prob3p16Comparison/bin/Debug/Prob3p16Comparison.exe
+/home/fcl021/Git/Programs/Backup/Prob3p16Comparison/Prob3p16Comparison/Prob3p16Comparison/bin/Debug/Prob3p16Comparison.pdb
+/home/fcl021/Git/Programs/Backup/Prob3p16Comparison/Prob3p16Comparison/Prob3p16Comparison/obj/x86/Debug/Prob3p16Comparison.csprojAssemblyReference.cache
+/home/fcl021/Git/Programs/Backup/Prob3p16Comparison/Prob3p16Comparison/Prob3p16Comparison/obj/x86/Debug/Prob3p16Comparison.csproj.CoreCompileInputs.cache
+/home/fcl021/Git/Programs/Backup/Prob3p16Comparison/Prob3p16Comparison/Prob3p16Comparison/obj/x86/Debug/Prob3p16Comparison.exe
+/home/fcl021/Git/Programs/Backup/Prob3p16Comparison/Prob3p16Comparison/Prob3p16Comparison/obj/x86/Debug/Prob3p16Comparison.pdb

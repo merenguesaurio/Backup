@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{D38A7D74-8BA0-4ADB-998F-FD02790B0E99}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Prob3p17ArithmeticAndComparison/Program.cs">
+    <Files>
+      <File FileName="Prob3p17ArithmeticAndComparison/Program.cs" Line="37" Column="66" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Prob3p17ArithmeticAndComparison" expanded="True">
+            <Node name="Prob3p17ArithmeticAndComparison" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Prob3p17ArithmeticAndComparison PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

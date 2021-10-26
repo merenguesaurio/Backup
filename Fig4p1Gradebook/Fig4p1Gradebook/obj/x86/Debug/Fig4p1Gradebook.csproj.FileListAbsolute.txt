@@ -1,0 +1,6 @@
+/home/fcl021/Git/Programs/Backup/Fig4p1Gradebook/Fig4p1Gradebook/bin/Debug/Fig4p1Gradebook.exe
+/home/fcl021/Git/Programs/Backup/Fig4p1Gradebook/Fig4p1Gradebook/bin/Debug/Fig4p1Gradebook.pdb
+/home/fcl021/Git/Programs/Backup/Fig4p1Gradebook/Fig4p1Gradebook/obj/x86/Debug/Fig4p1Gradebook.csprojAssemblyReference.cache
+/home/fcl021/Git/Programs/Backup/Fig4p1Gradebook/Fig4p1Gradebook/obj/x86/Debug/Fig4p1Gradebook.csproj.CoreCompileInputs.cache
+/home/fcl021/Git/Programs/Backup/Fig4p1Gradebook/Fig4p1Gradebook/obj/x86/Debug/Fig4p1Gradebook.exe
+/home/fcl021/Git/Programs/Backup/Fig4p1Gradebook/Fig4p1Gradebook/obj/x86/Debug/Fig4p1Gradebook.pdb

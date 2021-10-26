@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{7A5F2CEA-5885-42B4-869B-95B0388C6E86}|Default">
+  <MonoDevelop.Ide.ItemProperties.Fig4p1Gradebook PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fig4p1Gradebook/GradeBookTest.cs">
+    <Files>
+      <File FileName="Fig4p1Gradebook/GradeBook.cs" Line="8" Column="24" />
+      <File FileName="Fig4p1Gradebook/GradeBookTest.cs" Line="17" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fig4p1Gradebook" expanded="True">
+            <Node name="Fig4p1Gradebook" expanded="True">
+              <Node name="GradeBookTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

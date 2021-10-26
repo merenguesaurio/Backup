@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E9FB37F9-0713-4B82-BD8D-1227125299D7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Prob3p16Comparison/Program.cs">
+    <Files>
+      <File FileName="Prob3p16Comparison/Program.cs" Line="38" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Prob3p16Comparison" expanded="True">
+            <Node name="Prob3p16Comparison" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Prob3p16Comparison PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

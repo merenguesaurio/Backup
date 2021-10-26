@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E1073482-1C01-4931-B504-A8D28285A46C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fig3p13Welcome4/Program.cs">
+    <Files>
+      <File FileName="Fig3p13Welcome4/Program.cs" Line="12" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fig3p13Welcome4" expanded="True">
+            <Node name="Fig3p13Welcome4" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Fig3p13Welcome4 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,6 @@
+/home/fcl021/Git/Programs/Backup/Prob3p15Arithmetic/Prob3p15Arithmetic/Prob3p15Arithmetic/bin/Debug/Prob3p15Arithmetic.exe
+/home/fcl021/Git/Programs/Backup/Prob3p15Arithmetic/Prob3p15Arithmetic/Prob3p15Arithmetic/bin/Debug/Prob3p15Arithmetic.pdb
+/home/fcl021/Git/Programs/Backup/Prob3p15Arithmetic/Prob3p15Arithmetic/Prob3p15Arithmetic/obj/x86/Debug/Prob3p15Arithmetic.csprojAssemblyReference.cache
+/home/fcl021/Git/Programs/Backup/Prob3p15Arithmetic/Prob3p15Arithmetic/Prob3p15Arithmetic/obj/x86/Debug/Prob3p15Arithmetic.csproj.CoreCompileInputs.cache
+/home/fcl021/Git/Programs/Backup/Prob3p15Arithmetic/Prob3p15Arithmetic/Prob3p15Arithmetic/obj/x86/Debug/Prob3p15Arithmetic.exe
+/home/fcl021/Git/Programs/Backup/Prob3p15Arithmetic/Prob3p15Arithmetic/Prob3p15Arithmetic/obj/x86/Debug/Prob3p15Arithmetic.pdb
